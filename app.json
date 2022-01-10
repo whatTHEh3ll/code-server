@@ -1,7 +1,7 @@
 {
   "name": "code-server-heroku",
   "description": "A code-server environment designed to run in your Heroku",
-  "repository": "https://github.com/cdr/deploy-code-server",
+  "repository": "https://github.com/whatTHEh3ll/code-server",
   "logo": "https://avatars.githubusercontent.com/u/1375?s=200&v=4",
   "keywords": [
     "node",
@@ -12,7 +12,7 @@
   ],
   "env": {
     "GIT_REPO": {
-      "description": "URL of a git repo to clone (optional)",
+      "description": "https://github.com/whatTHEh3ll/sololearn-javascript.git",
       "required": false
     },
     "PASSWORD": {
